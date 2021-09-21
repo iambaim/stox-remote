@@ -43,7 +43,7 @@ are preserved after you destroy the Docker container.
 
 ```console
 $ mkdir -p /home/<user>/stox-workspace
-$ docker run --rm -it -p 8888:8080 -v /home/<user>/stox-workspace:/workspace iambaim/stox-remote
+$ docker run --rm -it -p 8888:8080 -v /home/<user>/stox-workspace:/workspace:Z iambaim/stox-remote
 ```
 
 # Thanks
