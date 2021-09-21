@@ -5,6 +5,9 @@ application in Docker. A full-pledged
 VNC server (TigerVNC) and a browser-based VNC client (noVNC) are included
 as well so you can have StoX up and running remotely from any Linux servers.
 
+## Screenshot
+![Example run](screenshot.png)
+
 ## Running
 
 ### Direct connection to server
